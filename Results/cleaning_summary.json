@@ -1,0 +1,10 @@
+{
+    "initial_rows": 541909,
+    "duplicates_removed": 5268,
+    "rows_with_missing_customer_id": 135037,
+    "cancelled_invoice_rows_removed": 8872,
+    "rows_with_nonpositive_quantity_or_price_removed": 40,
+    "cleaned_rows": 392692,
+    "unique_customers": 4338,
+    "unique_invoices": 18532
+}

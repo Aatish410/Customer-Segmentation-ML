@@ -1,0 +1,7 @@
+{
+    "training_customers": 3470,
+    "testing_customers": 868,
+    "train_test_ratio": "80:20",
+    "random_state": 42,
+    "note": "K-Means is fitted on training customers and predicts test customers. Agglomerative clustering has no native predict method; it is fitted on the held-out test subset only to assess the cluster structure there."
+}
